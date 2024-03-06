@@ -1,0 +1,12 @@
+{
+  "name": "node-deepseek-test",
+  "version": "1.0.0",
+  "description": "node app to test deepseek code propmt code ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "author": "ssmith",
+  "license": "ISC"
+}
