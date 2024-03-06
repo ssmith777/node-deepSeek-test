@@ -8,5 +8,9 @@
     "start": "node index.js"
   },
   "author": "ssmith",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.8.1"
+  }
 }
